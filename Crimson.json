@@ -43,19 +43,19 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -67,15 +67,15 @@
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
@@ -120,27 +120,27 @@
       "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "CHAT_BACKGROUND": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "TEXT_LINK": [
-      "#848484",
+      "#940D0D",
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#9E0000",
+      "#5A0000",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#80848e",
+      "#9C0000",
       "#ffffff"
     ]
   },
@@ -148,12 +148,12 @@
     "PRIMARY_DARK": "#9E0000",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_200": "#ffffff",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#A6A6A6",
+    "PRIMARY_DARK_300": "#9E0000",
+    "PRIMARY_DARK_360": "#9E0000",
     "PRIMARY_DARK_400": "#2c2c2c",
     "PRIMARY_DARK_500": "#000000",
-    "PRIMARY_DARK_600": "#000000",
-    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_600": "#9E0000",
+    "PRIMARY_DARK_630": "#9E0000",
     "PRIMARY_DARK_700": "#000000",
     "PRIMARY_DARK_800": "#000000",
     "PRIMARY_DARK_900": "#050505",
