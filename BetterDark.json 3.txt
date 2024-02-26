@@ -1,8 +1,8 @@
 {
-  "name": "BetterDark",
-  "description": "Darker than dark.",
-  "version": "1.12",
-  "color": "#3E3C3C",
+  "name": "Crimson",
+  "description": "Rich, deep red.",
+  "version": "1.0",
+  "color": "#9E0000",
   "authors": [
     {
       "name": "darealyeeto",
@@ -43,19 +43,19 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1B1B1B",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#333333",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -67,15 +67,15 @@
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
@@ -120,15 +120,15 @@
       "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "CHAT_BACKGROUND": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#D5D5D5",
+      "#9E0000",
       "#ffffff"
     ],
     "TEXT_LINK": [
@@ -136,7 +136,7 @@
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#000000",
+      "#9E0000",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
@@ -145,7 +145,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK": "#9E0000",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_200": "#ffffff",
     "PRIMARY_DARK_300": "#B6B6B6",
