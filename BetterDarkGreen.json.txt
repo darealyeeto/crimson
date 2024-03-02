@@ -1,7 +1,7 @@
 {
-  "name": "BetterDark Green",
-  "description": "Darker than dark, with a twist of green.",
-  "color": "#BAFFB3",
+  "name": "Crimson",
+  "description": "Bold, vibrant red.",
+  "color": "#8A0000",
   "authors": [
     {
       "name": "darealyeeto",
@@ -26,19 +26,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#89D59E",
+      "#8A0000",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#89D59E",
+      "#8A0000",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#89D59E",
+      "#8A0000",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#89D59E",
+      "#8A0000",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -133,7 +133,7 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#89D59E",
+      "#8A0000",
       "#ffffff"
     ],
     "KEYBOARD": [
@@ -141,7 +141,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#89D59E",
+      "#8A0000",
       "#ffffff"
     ]
   },
@@ -180,6 +180,6 @@
     "CHAT_GREY": "#8E8E8E"
 },
      "background": {
-        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213237794374418432/Untitled34_20240301213103.png?ex=65f4bebf&is=65e249bf&hm=1441e3fefea7ee0fc0f7d057022685658c03fad33068834e466660dfa352205d&"
+        "url": "https://cdn.discordapp.com/attachments/950979289531162666/1213290046866591744/Untitled35_20240302010114.png?ex=65f4ef69&is=65e27a69&hm=ee1f220a960ccf311407280a4037e63e500f718a76f216d4bfdbdf71e8cd280f&"
   }
 }
