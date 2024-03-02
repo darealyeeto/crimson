@@ -180,6 +180,6 @@
     "CHAT_GREY": "#8E8E8E"
 },
      "background": {
-        "url": "https://cdn.discordapp.com/attachments/950979289531162666/1213290046866591744/Untitled35_20240302010114.png?ex=65f4ef69&is=65e27a69&hm=ee1f220a960ccf311407280a4037e63e500f718a76f216d4bfdbdf71e8cd280f&"
+        "url": "https://cdn.discordapp.com/attachments/950979289531162666/1213290533607309352/Untitled35_20240302010316.png?ex=65f4efdd&is=65e27add&hm=e42603d6bfd9da0910baf24e0034bd73e6f993974adb0270207b03535833d18a&"
   }
 }
